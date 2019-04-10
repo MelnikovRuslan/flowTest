@@ -1,7 +1,7 @@
 function(login, password){
 	let login;
 	let password;
-	if(!login){
+	if(!login && pasword){
 		console.log("ERROR");
 	}
 }
