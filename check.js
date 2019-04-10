@@ -1,4 +1,4 @@
 let check = false;
-if(check){
+if(check && chack !=0){
 	console.log("CHECK");
 }
